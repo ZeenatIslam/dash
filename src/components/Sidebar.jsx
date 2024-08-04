@@ -15,7 +15,7 @@ function Sidebar() {
   return (
     <>
       <Flex align="center" justify="center">
-        <div className="logo">
+        <div className="bg-primary-light">
           <FaLeaf />
         </div>
       </Flex>

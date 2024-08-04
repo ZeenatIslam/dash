@@ -9,7 +9,7 @@ import{MessageOutlined,
 
 const CustomHeader = () => {
   return (
-    <Flex align='centre' justify='space-between'>
+    <Flex align='centre' justify='space-between ' className='bg-primary-light'>
         <Typography.Title level={3} type='secondary'>
            Welcome Back
         </Typography.Title>
